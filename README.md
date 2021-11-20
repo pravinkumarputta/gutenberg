@@ -8,7 +8,7 @@ A social cataloging website that allows you to freely search its database of boo
 ![Demo Screen](https://github.com/pravinkumarputta/gutenberg/blob/master/screens/screen3.png?raw=true)
 
 ## Download APK
-![Click Here to Download](https://github.com/pravinkumarputta/gutenberg/blob/master/apks/app-release.apk?raw=true)
+[Click Here to Download](https://github.com/pravinkumarputta/gutenberg/blob/master/apks/app-release.apk?raw=true)
 
 ## Getting Started
 
